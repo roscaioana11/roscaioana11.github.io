@@ -1,0 +1,783 @@
+<!DOCTYPE html>
+<!-- saved from url=(0114)http://localhost:63342/roscaioana11.github.io/index.html?_ijt=pgll7cnochmt0po342dvr5rsch&_ij_reload=RELOAD_ON_SAVE -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <!-- Google Tag Manager -->
+  <script async="" src="./HomePage_files/gtm.js.download"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!=='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-5BB8W2X');</script>
+  <!-- End Google Tag Manager -->
+  <link rel="icon" type="image/png" href="http://localhost:63342/favicon.png">
+  
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Personal Portfolio</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Google Fonts -->
+  <link href="./HomePage_files/css" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="./HomePage_files/bootstrap.min.css" rel="stylesheet">
+  <link href="./HomePage_files/icofont.min.css" rel="stylesheet">
+  <link href="./HomePage_files/remixicon.css" rel="stylesheet">
+  <link href="./HomePage_files/owl.carousel.min.css" rel="stylesheet">
+  <link href="./HomePage_files/boxicons.min.css" rel="stylesheet">
+  <link href="./HomePage_files/venobox.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="./HomePage_files/style.css" rel="stylesheet">
+
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async="" src="./HomePage_files/js"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-169007209-3');
+  </script>
+
+
+
+  <!-- =======================================================
+  * Template Name: Personal - v2.1.0
+  * Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+<style>undefined</style><style>
+    @font-face {
+      font-family: 'SegoeUI_online_security'; 
+      src: url(chrome-extension://llbcnfanfmjhpedaedhbcnpgeepdnnok/segoe-ui.woff);
+    }
+
+    @font-face {
+      font-family: 'SegoeUI_bold_online_security'; 
+      src: url(chrome-extension://llbcnfanfmjhpedaedhbcnpgeepdnnok/segoe-ui-bold.woff);
+    }
+</style><style>
+    @font-face {
+      font-family: 'SegoeUI_online_security'; 
+      src: url(chrome-extension://llbcnfanfmjhpedaedhbcnpgeepdnnok/segoe-ui.woff);
+    }
+
+    @font-face {
+      font-family: 'SegoeUI_bold_online_security'; 
+      src: url(chrome-extension://llbcnfanfmjhpedaedhbcnpgeepdnnok/segoe-ui-bold.woff);
+    }
+</style><style>.av-extension{--dark-blue-background: #183360;--active-blue-font-color: #183360;--modal-header-darkblue-background: #05153f;--grey-font-color: #93a0b5;--background-color: #f1f4f8;--foreground-color: #ffffff;--tertiary-color: #05153f;--primary-font-color: #183360;--green-font-color: #04d289;--red-font-color: #ff3b30;--purple-font-color: #6726ff;--orange-color: #ff8f11;--default-font-size: 18px;--modal-header-background: #f2f2f2;--hover-orange-color: #d97a0e}.av-extension h1{font-family:'Segoe UI Bold';font-size:50px;font-weight:700;line-height:66.5px}.av-extension h2{font-size:30px;padding:0px;margin:5px 0px;margin-top:0px}.av-extension h3{font-size:20px;font-weight:normal;white-space:pre-line}.av-extension p{padding:0px;margin:5px 0px}.av-extension a{text-decoration:none}.av-extension .flex{display:flex}.av-extension .grid{display:grid}.av-extension .fwrap{flex-wrap:wrap}.av-extension .ait{align-items:top}.av-extension .aic{align-items:center}.av-extension .jcl{justify-content:left}.av-extension .jcc{justify-content:center}.av-extension .jcr{justify-content:right}.av-extension .tac{text-align:center}.av-extension .w100{width:100%}.av-extension .sb{font-weight:600}.av-extension .borderButtonColor{color:var(--orange-color);border:3px solid var(--orange-color)}.av-extension .paddinglr{padding:100px 50px}.av-extension .redColor{color:var(--red-font-color);fill:var(--red-font-color)}.av-extension .greenColor{color:var(--green-font-color);fill:var(--green-font-color)}.av-extension .purpleColor{color:var(--purple-font-color)}.av-extension .orangeColor{color:var(--orange-color)}.av-extension .content{color:var(--primary-font-color);margin:auto;max-width:85%;padding-top:30px;padding-bottom:20px}.av-extension .sectionContent{margin-top:80px;margin-bottom:40px;font-size:22px;color:var(--primary-font-color)}.av-extension .btnAction{min-width:170px;padding:10px 25px;color:var(--orange-color);border:2.5px solid var(--orange-color);border-radius:39px;font-weight:600;background-color:transparent}.av-extension .btnAction:hover{background-color:var(--orange-color);color:white}.av-extension .btnDwm{background:linear-gradient(#fff, #fff) padding-box,linear-gradient(to right, #8526ff, #2a26ff) border-box;border:2.5px solid transparent;color:#7644ff}.av-extension .btnDwm:hover{background:linear-gradient(to right, #8526ff, #2a26ff) padding-box,linear-gradient(to right, #8526ff, #2a26ff) border-box;border:2.5px solid transparent}.av-extension .btnBuy{display:flex;align-items:center;justify-content:center;gap:10px;min-width:170px;padding:15px 40px;color:#fff;border-radius:39px;font-weight:600;background-color:var(--tertiary-color);border:none;cursor:pointer}.av-extension .btnBuy:hover{background-color:#0f3cb0}.av-extension .btnBuy:active{background-color:#0f3391}.av-extension .btnBuyOrange{display:flex;align-items:center;justify-content:center;gap:10px;min-width:170px;padding:15px 40px;color:#fff;border-radius:39px;font-weight:600;background-color:var(--orange-color);border:none;cursor:pointer}.av-extension .btnBuyOrange:hover{background-color:#ffa846}.av-extension .btnBuyOrange:active{background-color:#d97a0e}.av-extension .sectionTitle{font-weight:bold;font-size:20px;margin-bottom:25px}.av-extension .sectionTitle img{margin-left:5px;margin-right:13px}.av-extension .fullHeadContent{height:400px;background:var(--tertiary-color);box-shadow:-3px 0px 3px rgba(0,0,0,0.1);border-radius:0px 0px 22px 22px;color:var(--foreground-color)}.av-extension .fullHeadContent img{width:442px}.av-extension .fullHeadContent p{margin:10px}.av-extension .spinner{width:120px;height:120px}@media screen and (min-width: 1500px){.av-extension .content{max-width:70%}}@keyframes spin{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+</style><style>.checkboxContainer{display:block;position:relative;padding-left:35px;margin-bottom:12px;user-select:none}.checkboxContainer input{position:absolute;opacity:0;height:0;width:0}.checkboxContainer .checkmark{position:absolute;top:0;left:0;height:18px;width:18px;border:1px solid #cad0dd;border-radius:100%}.checkboxContainer .checkmark.greenColor{border:2.5px solid #cad0dd;border-radius:8px}.checkboxContainer:hover input ~ .checkmark{background-color:#cad0dd}.checkboxContainer input:checked ~ .checkmark{background-color:var(--primary-font-color)}.checkboxContainer input:checked ~ .purpleColor{background-color:var(--purple-font-color)}.checkboxContainer input:checked ~ .greenColor{background-color:var(--green-font-color);border:2px solid var(--green-font-color);border-radius:8px}.checkmark:after{content:'';position:absolute;display:none}.checkboxContainer input:checked ~ .checkmark:after{display:block}.checkboxContainer .checkmark:after{left:6px;top:3px;width:3px;height:7px;border:solid white;border-width:0 3px 3px 0;transform:rotate(45deg)}.checkboxContainer .uncheckAll:after{left:7.5px;top:4px;width:0px;height:9px;border-width:0 3px 0 0;transform:rotate(90deg)}.sectionSelectRadio{display:none}.sectionSelectRadio+label{padding:7px 2px;font-size:20px;font-weight:700;margin-right:50px;color:var(--primary-font-color);border:0px;background-color:transparent}.sectionSelectRadio:checked+label{border-bottom:4px solid var(--purple-font-color)}
+</style><link rel="preconnect" href="https://fonts.googleapis.com/" crossorigin="use-credentials"><link rel="preconnect" href="https://fonts.gstatic.com/"><link rel="stylesheet" href="./HomePage_files/css2"></head>
+
+<body data-new-gr-c-s-check-loaded="14.1147.0" data-gr-ext-installed=""><button type="button" class="mobile-nav-toggle d-lg-none"><i class="icofont-navigation-menu"></i></button>
+  
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5BB8W2X"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <!-- ======= Header ======= -->
+  <header id="header" class="header-tops header-top">
+
+    <div class="container">
+
+      <h1><a href="http://localhost:63342/roscaioana11.github.io/index.html">Roșca Ioana</a></h1>
+      <h2 style="color:#fff">I'm <span class="typing" style="color:#12D640">Software Develo</span><span class="typed-cursor">|</span></h2>
+      <nav class="nav-menu d-none d-lg-block">
+        <ul>
+          <li class=""><a href="http://localhost:63342/roscaioana11.github.io/index.html?_ijt=pgll7cnochmt0po342dvr5rsch&amp;_ij_reload=RELOAD_ON_SAVE#header"> <span>Home</span></a></li>
+          <li class="active"><a href="http://localhost:63342/roscaioana11.github.io/index.html?_ijt=pgll7cnochmt0po342dvr5rsch&amp;_ij_reload=RELOAD_ON_SAVE#about"><span>About</span></a></li>
+          <li class=""><a href="http://localhost:63342/roscaioana11.github.io/index.html?_ijt=pgll7cnochmt0po342dvr5rsch&amp;_ij_reload=RELOAD_ON_SAVE#education"> <span>Education</span></a></li>
+          <li class=""><a href="http://localhost:63342/roscaioana11.github.io/index.html?_ijt=pgll7cnochmt0po342dvr5rsch&amp;_ij_reload=RELOAD_ON_SAVE#experience"> <span>Experience</span></a></li>
+          <li class=""><a href="http://localhost:63342/roscaioana11.github.io/index.html?_ijt=pgll7cnochmt0po342dvr5rsch&amp;_ij_reload=RELOAD_ON_SAVE#portfolio"> <span>Projects</span></a></li>
+          <li><a href="http://localhost:63342/roscaioana11.github.io/index.html?_ijt=pgll7cnochmt0po342dvr5rsch&amp;_ij_reload=RELOAD_ON_SAVE#skills"> <span>Skills</span></a></li>
+          <li><a href="https://drive.google.com/file/d/1unfLg9YKhccqMaB9tsaPmu7xw309DHhH/view?usp=sharing" target="_blank"> <span>Resume</span></a></li>
+          <li class=""><a href="http://localhost:63342/roscaioana11.github.io/index.html?_ijt=pgll7cnochmt0po342dvr5rsch&amp;_ij_reload=RELOAD_ON_SAVE#contacts"> <span>Contact</span></a></li>
+
+        </ul>
+      </nav>
+
+      <div class="social-links">
+          <a href="https://www.linkedin.com/in/ioana-rosca/" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+          <a href="https://github.com/roscaioana11" target="_blank" class="github"><i class="bx bxl-github"></i></a>
+          <a href="mailto:rosca.ioana11@gmail.com" target="_blank" class="google"><i class="bx bxl-google"></i></a>
+
+      </div>
+
+    </div>
+  </header>
+  <!-- End Header -->
+
+  <!-- ======= About Section ======= -->
+  <section id="about" class="about section-show">
+
+    <!-- ======= About Me ======= -->
+    <div class="about-me container">
+
+      <div class="section-title">
+        <h2>About</h2>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-4" data-aos="fade-right">
+          <img src="./HomePage_files/profile.jpeg" class="img-fluid" alt="">
+        </div>
+        <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
+          <p>I am a passionate soul, especially when it comes to software development and testing. I seek personal and professional growth.
+            My vision for the future is to discover and learn of this wonderful tech world everyday, making connections with the people around me and from other cultures.
+            The foundation of the way I live my life are my core values: respect, honesty, friendship, passion, and determination.
+            Giving up was never an option for me!
+          </p>
+          <div class="row">
+            <div class="col-lg-6">
+              <ul>
+                <li><i class="icofont-rounded-right"></i> <strong>Birthday:</strong> 11 September 1995</li>
+                <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> +40 720537397</li>
+              </ul>
+            </div>
+            <div class="col-lg-6">
+              <ul>
+                <li><i class="icofont-rounded-right"></i> <strong>City:</strong> Cluj-Napoca, Romania</li>
+                <li><i class="icofont-rounded-right"></i> <strong>Email:</strong> rosca.ioana11@gmail.com</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- End About Me -->
+
+    <!-- ======= Interests ======= -->
+    <div class="interests container">
+
+      <div class="section-title">
+        <h2>Interests</h2>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-3 col-md-4">
+          <div class="icon-box">
+            <i class="ri-global-line" style="color: #ffbb2c;"></i>
+            <h3>Software Development</h3>
+          </div>
+        </div>
+<!--        <div class="col-lg-3 col-md-4 mt-4 mt-md-0">-->
+<!--          <div class="icon-box">-->
+<!--            <i class="ri-database-2-line" style="color: #5578ff;"></i>-->
+<!--            <h3>Machine Learning</h3>-->
+<!--          </div>-->
+<!--        </div>-->
+<!--        <div class="col-lg-3 col-md-4 mt-4 mt-md-0">-->
+<!--          <div class="icon-box">-->
+<!--            <i class="ri-camera-3-line" style="color: #e80368;"></i>-->
+<!--            <h3>Computer Vision</h3>-->
+<!--          </div>-->
+<!--        </div>-->
+<!--        <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">-->
+<!--          <div class="icon-box">-->
+<!--            <i class="ri-english-input" style="color: #1c7d32;"></i>-->
+<!--            <h3>Natural Language Processing</h3>-->
+<!--          </div>-->
+<!--        </div>-->
+        <div class="col-lg-3 col-md-4 mt-4">
+          <div class="icon-box">
+            <i class="ri-code-s-slash-fill" style="color: #28a745;"></i>
+            <h3>Software Engineering</h3>
+          </div>
+        </div>
+<!--        <div class="col-lg-3 col-md-4 mt-4">-->
+<!--          <div class="icon-box">-->
+<!--            <i class="ri-bar-chart-box-line" style="color: #f1081f;"></i>-->
+<!--            <h3>Visualization</h3>-->
+<!--          </div>-->
+<!--        </div>-->
+        <div class="col-lg-3 col-md-4 mt-4">
+          <div class="icon-box">
+            <i class="ri-file-list-3-line" style="color: #47aeff;"></i>
+            <h3>Algorithms</h3>
+          </div>
+        </div>
+<!--        <div class="col-lg-3 col-md-4 mt-4">-->
+<!--          <div class="icon-box">-->
+<!--            <i class="ri-image-line" style="color: #ffc107;"></i>-->
+<!--            <h3>Image Processing</h3>-->
+<!--          </div>-->
+<!--        </div>-->
+      </div>
+
+    </div><!-- End Interests -->
+  </section><!-- End About Section -->
+
+
+
+  <!-- ======= Education Section ======= -->
+  <section id="education" class="services">
+    <div class="container">
+      <div class="section-title">
+        <h2>Education</h2>
+      </div>
+      <div class="row">
+        <div class="col-lg-12" data-aos="fade-up" style="display: inline-block;">
+
+
+            <div class="col-md-4 mt-4 mt-md-0 icon-box" data-aos="fade-up" data-aos-delay="100" style="padding:0px 0px;padding-bottom: 5px;display: inline-block;">
+              <img src="./HomePage_files/ASU.jpg" class="img-fluid" alt="">
+              <!-- <h4 style="text-align:left;"><a href="https://www.asu.edu/" target="_blank" style="color:#12d640">Arizona State University</a><br> </h4> -->
+              <p style="text-align:left;color:#fff;padding: 5px 10px;"><em>MS in Computer Science</em></p>
+              <h5 style="text-align:left;padding: 0px 10px;">Janurary 2021 - Present</h5>
+              <h6 style="text-align:left;color:#fff;padding: 0px 10px;">Relevant Coursework</h6>
+              <ul style="text-align:left;color:#fff;">
+                <li>Distributed Database Systems</li>
+                <li>Cloud Computing</li>
+                <li>Foundation Of Algorithms</li>
+              </ul>
+            </div>
+            <div class="col-md-4 mt-4 mt-md-0 icon-box" data-aos="fade-up" data-aos-delay="100" style="padding:0px 0px;padding-bottom: 5px;display: inline-block;">
+              <img src="./HomePage_files/au.png" class="img-fluid" alt="">
+              <!-- <h4 style="text-align:left;"><a href="https://ahduni.edu.in/" target="_blank" style="color:#12d640">Ahmedabad University</a><br> </h4> -->
+              <p style="text-align:left;color:#fff;padding: 5px 10px;"><em>B.Tech. in Information and Communication Technology</em></p>
+              <h5 style="text-align:left;padding: 0px 10px;">July 2014 - May 2018</h5>
+              <h6 style="text-align:left;color:#fff;padding: 0px 10px;">Relevant Coursework</h6>
+              <ul style="text-align:left;color:#fff;">
+                <!-- <li>Data Structures &amp; Algorithms</li> -->
+                <li>Database Management Systems</li>
+                <!-- <li>Operating Systems</li> -->
+                <li>Algorithms &amp; Optimization for Big Data</li>
+                <li>Machine Learning</li>
+                <!-- <li>Computer Vision</li> -->
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+    <div class="portfolio">
+    <div class="container">
+      <div class="section-title">
+        <h2>Online Certification</h2>
+      </div>
+
+      <div class="row portfolio-container" style="position: relative; height: 357.5px;">
+
+         <div class="col-lg-4 col-md-6 portfolio-item filter-app" style="position: absolute; left: 0px; top: 0px;">
+          <div class="portfolio-wrap">
+            <img src="./HomePage_files/stanford.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Machine Learning</h4>
+              <div class="portfolio-links">
+                <a href="https://www.coursera.org/account/accomplishments/certificate/2BTJ636Q2E93?utm_medium=certificate&amp;utm_source=link&amp;utm_campaign=copybutton_certificate/" target="_blank" title="Certificate"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+           </div>
+          </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app" style="position: absolute; left: 370px; top: 0px;">
+          <div class="portfolio-wrap">
+            <img src="./HomePage_files/stanford.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Algorithms-Design and Analysis</h4>
+              <div class="portfolio-links">
+                <a href="https://www.coursera.org/account/accomplishments/certificate/6THRQXYE9EHZ?utm_medium=certificate&amp;utm_source=link&amp;utm_campaign=copybutton_certificate" target="_blank" title="Certificate"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app" style="position: absolute; left: 740px; top: 0px;">
+          <div class="portfolio-wrap">
+            <img src="./HomePage_files/ucsd.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Algorithmic Toolbox</h4>
+              <div class="portfolio-links">
+                <a href="https://coursera.org/share/98bbfb990484fac370d5e5ed14334ea4" target="_blank" title="Certificate"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-project" style="position: absolute; left: 0px; top: 178.75px;">
+          <div class="portfolio-wrap">
+            <img src="./HomePage_files/ibm.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Deep Learning with Tensorflow</h4>
+              <div class="portfolio-links">
+                <a href="https://drive.google.com/file/d/1FSwPt19EzY_tpvqkE6igtLf3gccKcssC/view?usp=sharing" target="_blank" title="Certificate"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-project" style="position: absolute; left: 370px; top: 178.75px;">
+          <div class="portfolio-wrap">
+            <img src="./HomePage_files/ibm.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Machine Learning with Python</h4>
+              <div class="portfolio-links">
+                <a href="https://drive.google.com/file/d/1gimySw_NPzCJ54dqZ2j2wYyz-JDOg-S0/view?usp=sharing" target="_blank" title="Certificate"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-project" style="position: absolute; left: 740px; top: 178.75px;">
+          <div class="portfolio-wrap">
+            <img src="./HomePage_files/dai.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Neural Networks and Deep Learning</h4>
+              <div class="portfolio-links">
+                <a href="https://www.coursera.org/account/accomplishments/certificate/ELXZ6FE2BU7X?utm_medium=certificate&amp;utm_source=link&amp;utm_campaign=copybutton_certificate/" target="_blank" title="Certificate"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+    </div>
+
+  </section>
+  <!-- End Education Section -->
+
+
+
+  <!-- Start Experience Section -->
+
+  <section id="experience" class="services">
+    <div class="container">
+      <div class="section-title">
+        <h2>Experience</h2>
+      </div>
+      <div class="row">
+          <div class="col-lg-12" data-aos="fade-up">
+              <div class="col-md-12 mt-4 mt-md-0 icon-box" data-aos="fade-up" data-aos-delay="100">
+                <h4 style="text-align:left;"><a href="https://www.asu.edu/" style="color:#12d640">Arizona State University</a><br> </h4>
+                <h5 style="text-align:left;">January 2021 - Present</h5>
+                <p style="text-align:left;color:#fff"><em>Software Engineer </em></p>
+                <ul style="text-align:left;">
+                  <li>Managed large‑scale deployment of JupyterHub with Nbgrader and webwork software, facilitating approx 5500 students.</li>
+                  <li>Configured, troubleshot, and administered server‑side web applications for the statistics department.</li>
+                  <li>Handled Linux server administration and Apache configuration; automated tasks like user account creation, managing student database, and system maintenance using Shell and automation scripts, reducing manual work by 200%.</li>
+                </ul>
+              </div>
+              <div class="col-md-12 mt-4 mt-md-0 icon-box" data-aos="fade-up" data-aos-delay="100">
+                <h4 style="text-align:left;"><a href="https://www.augmenify.com/" style="color:#12d640">Augmenify Infotech Pvt. Ltd.</a><br> </h4>
+                <h5 style="text-align:left;">August 2020 - November 2020</h5>
+                <p style="text-align:left;color:#fff"><em>Backend Developer</em></p>
+                <ul style="text-align:left;">
+                  <li>Documented and coded server‑less web application for the hotel industry and designed REST API using Flask‑based JWT authentication.</li>
+                  <li>Redeveloped an existing system to support customer account management, scheduling, and time tracking; enabled dynamic API calls with the help of Amazon API Gateway, AWS Lambda, and DynamoDB.</li>
+                </ul>
+              </div>
+              <div class="col-md-12 mt-4 mt-md-0 icon-box" data-aos="fade-up" data-aos-delay="100">
+                <h4 style="text-align:left;"><a href="https://www.epitomesolutions.in/" style="color:#12d640">Epitome Corporation Pvt. Ltd.</a><br> </h4>
+                <h5 style="text-align:left;">July 2019 - Dec 2019</h5>
+                <p style="text-align:left;color:#fff"><em>Software Developer</em></p>
+                <ul style="text-align:left;">
+                  <li>Tested, designed, and developed backend APIs of WebRTC enabled multi‑party video conferencing web application and delivered the project 15 days ahead of schedule by efficiently designing the flow of the project.</li>
+                </ul>
+              </div>
+              <div class="col-md-12 mt-4 mt-md-0 icon-box" data-aos="fade-up" data-aos-delay="100">
+                <h4 style="text-align:left;"><a href="https://www.meditab.com/" target="_blank" style="color:#12d640">Meditab Software Pvt. Ltd.</a><br> </h4>
+                <h5 style="text-align:left;">May 2018 - June 2018</h5>
+                <p style="text-align:left;color:#fff"><em>Programmer Analyst</em></p>
+                <ul style="text-align:left;">
+                  <li>Optimized image processing algorithm of pill detection by creating customized MASKRCNN  algorithm, increasing accuracy by 15%; trained classification algorithm with the help of triplet loss to learn the image embedding of pill, reducing the hassle of collecting data of new pills. </li>
+                  <li>Devised a pipeline of the project to incorporate it into the product of the company. Implemented Restful APIs in Django that enabled our quality Analyst team to increase reporting speed by 46%.</li>
+                  <li>Built a web app to onboard data from the company’s product using Flask, Postgres, and AWS S3, enabling interactive charts in real-time.</li>
+                  <li>Mentored 2 interns to optimize the pill detection algorithm and to include the multiprocessing pipeline, increasing overall speed by 75%.</li>
+                </ul>
+              </div>
+              <div class="col-md-12 mt-4 mt-md-0 icon-box" data-aos="fade-up" data-aos-delay="100">
+                <h4 style="text-align:left;"><a href="https://www.sac.gov.in/Vyom/index.jsp" target="_blank" style="color:#12d640">Space Application Centre, ISRO</a><br> </h4>
+                <h5 style="text-align:left;">Jan 2018 - May 2018</h5>
+                <p style="text-align:left;color:#fff"><em>Research Intern</em></p>
+                <ul style="text-align:left;">
+                  <li>Implemented noise reduction algorithm on the satellite image and prepared architecture for detecting objects in high‑resolution satellite images, achieving 80% accuracy.</li>
+                  <li>Increased accessibility of satellite image data by redesigning database and application for showcasing graphical data.</li>
+                </ul>
+            </div>
+          </div>
+        </div>
+    </div>
+  </section>
+
+  <!-- End Experience Section -->
+
+
+
+  <!-- Start Project Section -->
+  <section id="portfolio" class="portfolio">
+    <div class="container">
+
+      <div class="section-title">
+        <h2>Projects</h2>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-12 d-flex justify-content-center">
+          <ul id="portfolio-flters">
+            <li data-filter="*" class="filter-active">All</li>
+            <li data-filter=".filter-app">Web-App</li>
+            <li data-filter=".filter-project">Project</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="row portfolio-container" style="position: relative; height: 685.738px;">
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app" style="position: absolute; left: 0px; top: 0px;">
+          <div style="text-align: center;"><h4>Twitter Analysis</h4></div>
+          <div class="portfolio-wrap">
+            <img src="./HomePage_files/twitteranalysis.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              
+              <div class="portfolio-links">
+                <a href="http://localhost:63342/roscaioana11.github.io/projects/twitteranalysis.html" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox vbox-item" title="Project Details"><i class="bx bx-info-circle"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app" style="position: absolute; left: 370px; top: 0px;">
+          <div style="text-align: center;"><h4>Image recognition as Service</h4></div>
+          <div class="portfolio-wrap">
+            <img src="./HomePage_files/iras.jpeg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              
+              <div class="portfolio-links">
+                <a href="http://localhost:63342/roscaioana11.github.io/projects/iras.html" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox vbox-item" title="Project Details"><i class="bx bx-info-circle"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app" style="position: absolute; left: 740px; top: 0px;">
+          <div style="text-align: center;"><h4>Music Streaming Website</h4></div>
+          <div class="portfolio-wrap">
+            <img src="./HomePage_files/musicplayer.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              
+              <div class="portfolio-links">
+                <a href="http://localhost:63342/roscaioana11.github.io/projects/musicplayer.html" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox vbox-item" title="Project Details"><i class="bx bx-info-circle"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app" style="position: absolute; left: 0px; top: 230.125px;">
+          <div style="text-align: center;"><h4>Movie Recommender</h4></div>
+          <div class="portfolio-wrap">
+            <img src="./HomePage_files/recommender.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              
+              <div class="portfolio-links">
+                <a href="http://localhost:63342/roscaioana11.github.io/projects/recommender.html" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox vbox-item" title="Project Details"><i class="bx bx-info-circle"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-project" style="position: absolute; left: 370px; top: 230.125px;">
+          <div style="text-align: center;"><h4>Resume Section Classifier</h4></div>
+          <div class="portfolio-wrap">
+            <img src="./HomePage_files/resume.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Resume Section Classifier</h4>
+              <div class="portfolio-links">
+                <a href="http://localhost:63342/roscaioana11.github.io/projects/resume.html" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox vbox-item" title="Project Details"><i class="bx bx-info-circle"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-project" style="position: absolute; left: 740px; top: 230.125px;">
+          <div style="text-align: center;"><h4>Video Description Generator</h4></div>
+          <div class="portfolio-wrap">
+            <img src="./HomePage_files/vdg.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <div class="portfolio-links">
+                <a href="http://localhost:63342/roscaioana11.github.io/projects/vdg.html" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox vbox-item" title="Project Details"><i class="bx bx-info-circle"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app" style="position: absolute; left: 0px; top: 457.55px;">
+          <div style="text-align: center;"><h4>ML-DL Web-App</h4></div>
+          <div class="portfolio-wrap">
+            <img src="./HomePage_files/ml.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <div class="portfolio-links">
+                <a href="http://localhost:63342/roscaioana11.github.io/projects/ml.html" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox vbox-item" title="Project Details"><i class="bx bx-info-circle"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-project" style="position: absolute; left: 370px; top: 457.55px;">
+          <div style="text-align: center;"><h4>Image Generator</h4></div>
+          <div class="portfolio-wrap">
+            <img src="./HomePage_files/gan.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <div class="portfolio-links">
+                <a href="http://localhost:63342/roscaioana11.github.io/projects/gan.html" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox vbox-item" title="Project Details"><i class="bx bx-info-circle"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- End Project Section -->
+
+
+
+  <!-- Start Skills Section -->
+
+  <section id="skills" class="services">
+    <div class="container">
+      <div class="section-title">
+        <h2>Skills</h2>
+      </div>
+      <div class="row">
+        <div class="col-lg-12" data-aos="fade-up">
+          <div class="col-md-12 mt-4 mt-md-0 icon-box" data-aos="fade-up" data-aos-delay="100" style="background:#fff">
+            <h4 style="text-align:left;color:#09203a">Languages and Databases</h4>
+                <p style="text-align:left;">
+<!--                  <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="vectorlogo.zone" height="50" width="150">-->
+                  <img src="./HomePage_files/java-horizontal.svg" alt="vectorlogo.zone" height="50" width="120">
+                  <img src="./HomePage_files/w3_html5-ar21.svg" alt="vectorlogo.zone">
+                  <img src="./HomePage_files/CSS3_logo_and_wordmark.svg" alt="upload.wikimedia.org" height="60" width="90">
+                  <img src="./HomePage_files/mysql-horizontal.svg" alt="vectorlogo.zone" height="70" width="130">
+                  <img src="./HomePage_files/postgresql-horizontal.svg" alt="vectorlogo.zone" height="50" width="190">
+
+                </p>
+            </div>
+            <div class="col-md-12 mt-4 mt-md-0 icon-box" data-aos="lefade-up" data-aos-delay="100" style="background:#fff">
+              <h4 style="text-align:left;color:#09203a">Frameworks</h4>
+                <p style="text-align:left;">
+<!--                  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="vectorlogo.zone">-->
+<!--                  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="vectorlogo.zone">-->
+<!--                  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="vectorlogo.zone">-->
+                  <img src="./HomePage_files/getbootstrap-ar21.svg" alt="vectorlogo.zone">
+<!--                  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="vectorlogo.zone">-->
+<!--                  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="vectorlogo.zone">-->
+<!--                  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="vectorlogo.zone">-->
+                  <img src="./HomePage_files/Scikit_learn_logo_small.svg" alt="upload.wikimedia.org" width="90" height="70">
+              </p>
+          </div>
+          <div class="col-md-12 mt-4 mt-md-0 icon-box" data-aos="lefade-up" data-aos-delay="100" style="background:#fff">
+              <h4 style="text-align:left;color:#09203a">Tools</h4>
+                <p style="text-align:left;">
+                  <img src="./HomePage_files/git-scm-ar21.svg" alt="vectorlogo.zone">
+<!--                  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="vectorlogo.zone">-->
+<!--                  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="vectorlogo.zone">-->
+<!--                  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="vectorlogo.zone">-->
+<!--                  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="vectorlogo.zone">-->
+              </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- End Skills Section -->
+
+
+
+
+  <!-- Start Links section -->
+  <section id="links" class="services">
+    <div class="container">
+      <div class="section-title">
+        <h2>Resume &amp; Links</h2>
+      </div>
+      <div class="row">
+        <div class="col-md-3 mt-4 mt-md-0 icon-box" data-aos="fade-up" data-aos-delay="100">
+          <a href="https://drive.google.com/file/d/1unfLg9YKhccqMaB9tsaPmu7xw309DHhH/view?usp=sharing" target="_blank"><div class="icon"><i class="icofont-page"></i></div></a>
+          <h4 class="title"><a href="https://drive.google.com/file/d/1unfLg9YKhccqMaB9tsaPmu7xw309DHhH/view?usp=sharing" target="_blank">Resume</a></h4>
+          <p class="description" style="color:#fff;">The link contains downloadable resume</p>
+        </div>
+<!--        <div class="col-md-3 mt-4 mt-md-0 icon-box" data-aos="fade-up">-->
+<!--          <a href="https://github.com/rajaprerak/LeetCode_Problems" target="_blank"><div class="icon"><i class="icofont-link"></i></div></a>-->
+<!--          <h4 class="title"><a href="https://github.com/rajaprerak/LeetCode_Problems" target="_blank">LeetCode Repository</a></h4>-->
+<!--          <p class="description" style="color:#fff;"> The github repository contains leetcode problems solution in python.</p>-->
+<!--        </div>-->
+      </div>
+    </div>
+  </section>
+  <!--End Links Section -->
+
+
+  <!-- Start Contact Section -->
+
+  <section id="contacts" class="contact">
+    <div class="container">
+
+      <div class="section-title">
+        <h2>Contact</h2>
+      </div>
+
+      <div class="row mt-2">
+
+        <div class="col-md-6 d-flex align-items-stretch">
+          <div class="info-box">
+            <i class="bx bx-map"></i>
+            <h3>My Address</h3>
+            <p>Cluj-Napoca, Romania</p>
+          </div>
+        </div>
+
+        <div class="col-md-6 mt-4 mt-md-0 d-flex align-items-stretch">
+          <div class="info-box">
+            <i class="bx bx-share-alt"></i>
+            <h3>Social Profiles</h3>
+            <div class="social-links">
+              <a href="https://www.linkedin.com/in/ioana-rosca/" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+              <a href="https://github.com/roscaioana11" target="_blank" class="github"><i class="bx bxl-github"></i></a>
+              <a href="mailto:rosca.ioana11@gmail.com" target="_blank" class="google"><i class="bx bxl-google"></i></a>
+
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-6 mt-4 d-flex align-items-stretch">
+          <div class="info-box">
+            <i class="bx bx-envelope"></i>
+            <h3>Email</h3>
+            <p>rosca.ioana11@gmail.com</p>
+          </div>
+        </div>
+        <div class="col-md-6 mt-4 d-flex align-items-stretch">
+          <div class="info-box">
+            <i class="bx bx-phone-call"></i>
+            <h3>Contact</h3>
+            <p>+40 720537397</p>
+          </div>
+        </div>
+      </div>
+      <!-- <div id="sfczmlqxr5caww28rswrt8849ghbekgnh3j" ></div><script type="text/javascript" src="https://counter1.stat.ovh/private/counter.js?c=zmlqxr5caww28rswrt8849ghbekgnh3j&down=async" async></script><noscript><a href="https://www.freecounterstat.com" title="free web counter"><img src="https://counter1.stat.ovh/private/freecounterstat.php?c=zmlqxr5caww28rswrt8849ghbekgnh3j" border="0" title="free web counter" alt="free web counter" style="visibility: none;"></a></noscript> -->
+    </div>
+  </section>
+
+  <!-- End Contact Section -->
+
+  <!-- Vendor JS Files -->
+  <script src="./HomePage_files/jquery.min.js.download"></script>
+  <script src="./HomePage_files/bootstrap.bundle.min.js.download"></script>
+  <script src="./HomePage_files/jquery.easing.min.js.download"></script>
+  <script src="./HomePage_files/validate.js.download"></script>
+  <script src="./HomePage_files/jquery.waypoints.min.js.download"></script>
+  <script src="./HomePage_files/counterup.min.js.download"></script>
+  <script src="./HomePage_files/owl.carousel.min.js.download"></script>
+  <script src="./HomePage_files/isotope.pkgd.min.js.download"></script>
+  <script src="./HomePage_files/venobox.min.js.download"></script>
+  <script src="./HomePage_files/typed.min.js.download"></script>
+  <script type="text/javascript">
+    const typed = new Typed('.typing', {
+      strings: ["Coder", "Software Developer"],
+      loop: true,
+      typeSpeed: 65,
+      backSpeed: 65
+    });
+  </script><style type="text/css" data-typed-js-css="true">
+        .typed-cursor{
+          opacity: 1;
+        }
+        .typed-cursor.typed-cursor--blink{
+          animation: typedjsBlink 0.7s infinite;
+          -webkit-animation: typedjsBlink 0.7s infinite;
+                  animation: typedjsBlink 0.7s infinite;
+        }
+        @keyframes typedjsBlink{
+          50% { opacity: 0.0; }
+        }
+        @-webkit-keyframes typedjsBlink{
+          0% { opacity: 1; }
+          50% { opacity: 0.0; }
+          100% { opacity: 1; }
+        }
+      </style>
+
+  <!-- Template Main JS File -->
+  <script src="./HomePage_files/main.js.download"></script><nav class="mobile-nav d-lg-none">
+        <ul>
+          <li class=""><a href="http://localhost:63342/roscaioana11.github.io/index.html?_ijt=pgll7cnochmt0po342dvr5rsch&amp;_ij_reload=RELOAD_ON_SAVE#header"> <span>Home</span></a></li>
+          <li><a href="http://localhost:63342/roscaioana11.github.io/index.html?_ijt=pgll7cnochmt0po342dvr5rsch&amp;_ij_reload=RELOAD_ON_SAVE#about"><span>About</span></a></li>
+          <li><a href="http://localhost:63342/roscaioana11.github.io/index.html?_ijt=pgll7cnochmt0po342dvr5rsch&amp;_ij_reload=RELOAD_ON_SAVE#education"> <span>Education</span></a></li>
+          <li><a href="http://localhost:63342/roscaioana11.github.io/index.html?_ijt=pgll7cnochmt0po342dvr5rsch&amp;_ij_reload=RELOAD_ON_SAVE#experience"> <span>Experience</span></a></li>
+          <li><a href="http://localhost:63342/roscaioana11.github.io/index.html?_ijt=pgll7cnochmt0po342dvr5rsch&amp;_ij_reload=RELOAD_ON_SAVE#portfolio"> <span>Projects</span></a></li>
+          <li><a href="http://localhost:63342/roscaioana11.github.io/index.html?_ijt=pgll7cnochmt0po342dvr5rsch&amp;_ij_reload=RELOAD_ON_SAVE#skills"> <span>Skills</span></a></li>
+          <li><a href="https://drive.google.com/file/d/1unfLg9YKhccqMaB9tsaPmu7xw309DHhH/view?usp=sharing" target="_blank"> <span>Resume</span></a></li>
+          <li><a href="http://localhost:63342/roscaioana11.github.io/index.html?_ijt=pgll7cnochmt0po342dvr5rsch&amp;_ij_reload=RELOAD_ON_SAVE#contacts"> <span>Contact</span></a></li>
+
+        </ul>
+      </nav><div class="mobile-nav-overly"></div>
+
+
+
+
+<script>
+(function() {
+  var ws = new WebSocket('ws://' + window.location.host + 
+             '/jb-server-page?reloadMode=RELOAD_ON_SAVE&'+
+             'referrer=' + encodeURIComponent(window.location.pathname));
+  ws.onmessage = function (msg) {
+      if (msg.data === 'reload') {
+          window.location.reload();
+      }
+      if (msg.data.startsWith('update-css ')) {
+          var messageId = msg.data.substring(11);
+          var links = document.getElementsByTagName('link');
+          for (var i = 0; i < links.length; i++) {
+              var link = links[i];
+              if (link.rel !== 'stylesheet') continue;
+              var clonedLink = link.cloneNode(true);
+              var newHref = link.href.replace(/(&|\?)jbUpdateLinksId=\d+/, "$1jbUpdateLinksId=" + messageId);
+              if (newHref !== link.href) {
+                clonedLink.href = newHref;
+              }
+              else {
+                var indexOfQuest = newHref.indexOf('?');
+                if (indexOfQuest >= 0) {
+                  // to support ?foo#hash 
+                  clonedLink.href = newHref.substring(0, indexOfQuest + 1) + 'jbUpdateLinksId=' + messageId + '&' + 
+                                    newHref.substring(indexOfQuest + 1);
+                }
+                else {
+                  clonedLink.href += '?' + 'jbUpdateLinksId=' + messageId;
+                }
+              }
+              link.replaceWith(clonedLink);
+          }
+      }
+  };
+})();
+</script></body><grammarly-desktop-integration data-grammarly-shadow-root="true"><template shadowrootmode="open"><style>
+      div.grammarly-desktop-integration {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        padding: 0;
+        margin: -1px;
+        overflow: hidden;
+        clip: rect(0, 0, 0, 0);
+        white-space: nowrap;
+        border: 0;
+        -moz-user-select: none;
+        -webkit-user-select: none;
+        -ms-user-select:none;
+        user-select:none;
+      }
+
+      div.grammarly-desktop-integration:before {
+        content: attr(data-content);
+      }
+    </style><div aria-label="grammarly-integration" role="group" tabindex="-1" class="grammarly-desktop-integration" data-content="{&quot;mode&quot;:&quot;full&quot;,&quot;isActive&quot;:true,&quot;isUserDisabled&quot;:false}"></div></template></grammarly-desktop-integration></html>
