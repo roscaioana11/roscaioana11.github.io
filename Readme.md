@@ -22,7 +22,7 @@
 
 #### Projects Page
 
-[//]: # (<img src="website_images/ProjectPage.png" width="900">)
+<img src="website_images/ProjectsPage.png" width="900">
 TODO
   
 
