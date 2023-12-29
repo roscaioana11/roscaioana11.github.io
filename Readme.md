@@ -8,7 +8,7 @@
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/ioana-rosca/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-#### Resume is NOT updated
+#### Resume last date updated: 29.12.2023
 
 ### Website Preview
 #### Home Page
